@@ -60,9 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Owais-Warsi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-[![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)
-[![Muhammad-Owais-Warsi's GitHub | Dependencies](https://stats.quine.sh/Muhammad-Owais-Warsi/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)
-[![Muhammad-Owais-Warsi's GitHub | Languages Over Time](https://stats.quine.sh/Muhammad-Owais-Warsi/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)
+<br>
+
+[![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)<pre></pre>  [![Muhammad-Owais-Warsi's GitHub | Dependencies](https://stats.quine.sh/Muhammad-Owais-Warsi/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)
+
 
 <br clear="both">
 
