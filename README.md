@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">About Me :<br><br>- I am an undergrad and love exploring  Technologies.<br><br>- I am working on my Portfolio Website .<br><br>- Currently I am learning React, DevOps .<br><br>- You can send me an email on warsimuhammadowais@gmail.com</h4>
+<h4 align="left">About Me :<br><br>- I am an undergrad and love exploring  Technologies.<br><br>- I am working on my Portfolio Website .<br><br>- Currently I am learning Full Stack .<br><br>- You can send me an email on warsimuhammadowais@gmail.com</h4>
 
 ###
 
