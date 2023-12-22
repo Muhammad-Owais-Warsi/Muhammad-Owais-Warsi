@@ -44,10 +44,9 @@
 </div>
 
 <br>
-<h2>Quine Badges</h2>
+<h2>Quine Badge</h2>
 
-[![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)<pre></pre>  [![Muhammad-Owais-Warsi's GitHub | Dependencies](https://stats.quine.sh/Muhammad-Owais-Warsi/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Muhammad-Owais-Warsi)
-
+![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)
 
 <br clear="both">
 
