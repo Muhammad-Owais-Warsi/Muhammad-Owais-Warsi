@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My name is Muhammad Owais Warsi and I'm a passionate Developer.</h2>
+<h2 align="center">Hi 👋 My name is Muhammad Owais Warsi a passionate Developer from India.</h2>
 
 ###
 
