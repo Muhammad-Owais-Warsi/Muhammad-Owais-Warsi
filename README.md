@@ -5,8 +5,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
-<div align="center"><h2>About Me:</h2><br><br><h3>-  I am an undergrad and love exploring  Technologies.</h3><br><br><h3>- I am working on my Portfolio Website .</h3>
-  <br><br><h3>- Currently I am learning Web Development .</h3><br><br>
+<div align="center">
+  <h2>About Me:</h2>
+  <ul align="left">
+    <li>I am an undergrad and loves exploring new Technologies</li>
+    <li>I am currently pursuing my Bachelors degree from SRM Ramapuram</li>
+    <li>Currently on my way of learning React and other Technologies</li>
+    <li>Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
+  </ul>
 </div>
 
 <br clear="both">
