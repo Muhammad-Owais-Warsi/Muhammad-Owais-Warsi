@@ -3,7 +3,7 @@
 ###
 
 
-<img src="https://camo.githubusercontent.com/932de7203822cd30c97c3738ea06eb3b41d580daf9f9efc2adb5a6f5d3e98c13/68747470733a2f2f717463696e666f746563682e636f6d2f696d616765732f7765622d646576656c6f706d656e742f636d732d776562736974652d646576656c6f706d656e742d736572766963652e676966"></img>
+<img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif"></img>
 
 <div align="center"><h2>About Me:</h2><br><br><h3>-  I am an undergrad and love exploring  Technologies.</h3><br><br><h3>- I am working on my Portfolio Website .</h3>
   <br><br><h3>- Currently I am learning Web Development .</h3><br><br>
