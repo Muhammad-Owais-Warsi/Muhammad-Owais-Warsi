@@ -56,10 +56,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Owais-Warsi&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
 </div>
 
+
+<h2>Github Stats</h2>
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Owais-Warsi&theme=ayu_mirage"></img>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Owais-Warsi&theme=ayu_mirage&utcOffset=8"></img>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Owais-Warsi&theme=ayu_mirage"></img>
+
+
 <br>
 <h2>Quine Badge</h2>
 
 ![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)
+
 
 <br clear="both">
 
