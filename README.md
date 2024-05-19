@@ -3,7 +3,6 @@
   
 ## Execute `npx mowarsi` in your terminal for a brief intro.
 
-
 ###
 
 
