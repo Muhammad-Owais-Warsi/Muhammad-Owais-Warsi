@@ -64,11 +64,6 @@
 
 
 </div>
-<br>
-<h2>Quine Badge</h2>
-
-![Muhammad-Owais-Warsi's GitHub | Stats](https://stats.quine.sh/Muhammad-Owais-Warsi/github?theme=dark)
-
 
 <br clear="both">
 
