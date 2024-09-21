@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Muhammad-Owais-Warsi/Muhammad-Owais-Warsi/blob/main/owais_resized.png" alt="Owais Warsi">
+  <img src="https://github.com/Muhammad-Owais-Warsi/Muhammad-Owais-Warsi/blob/main/KNOW-TECH.png" alt="Owais Warsi">
   
 </div>
 
