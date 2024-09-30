@@ -8,9 +8,9 @@
 
 <div>
   <ul align="left">
-    <li>👨‍🎓 Undergrad who loves building products</li>
-    <li>💻 Open source with two active projects</li>
-    <li>🤝 Contributors are always welcome</li>
+    <li>👨‍🎓 Undergrad who loves building products.</li>
+    <li>💻 Open source with two active projects.</li>
+    <li>🤝 Contributors are always welcome.</li>
     <li>✍️ Love to share by writing blogs <a href="https://knowtech.hashnode.dev/">https://knowtech.hashnode.dev/</a></li>
     <li>📧 Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
   </ul>
