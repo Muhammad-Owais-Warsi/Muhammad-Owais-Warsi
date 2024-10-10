@@ -23,5 +23,5 @@
   </a>
 </div>
 
-### Get to know about me... [owais.me](https://owais-warsi.vercel.app/)
+### Get to know about me... [owais.me](https://bento.me/owais-warsi)
 
