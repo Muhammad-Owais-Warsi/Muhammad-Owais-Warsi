@@ -2,7 +2,7 @@
   <img src="https://github.com/Muhammad-Owais-Warsi/Muhammad-Owais-Warsi/blob/main/KNOW-TECH.png" alt="Owais Warsi">
   
 </div>
-
+                                                                                                                   
 
 ### Execute `npx mowarsi` in your terminal for a brief intro.
 
