@@ -17,6 +17,17 @@
 </div>
 <br>
 
+## My current favourites.
+
+- [Poemify](https://github.com/Muhammad-Owais-Warsi/Poemify): An AI that turns your images into beautiful poems.
+- [NPM Suggster](https://github.com/Muhammad-Owais-Warsi/NPM-Suggester): Get yourself the perfect recommendations for the npm packages.
+- [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
+- [GitHub Roast](https://github.com/Muhammad-Owais-Warsi/GH-ROAST): Get your GitHub profile roasted.
+
+  
+
+<br>
+
 <div>
   <a href="https://x.com/MO_warsi786">
     <img src="https://img.shields.io/badge/Twitter-%40MO__warsi786-blue" alt="Twitter - @MO_warsi786">
