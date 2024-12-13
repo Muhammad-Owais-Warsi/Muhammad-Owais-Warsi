@@ -17,6 +17,13 @@
 </div>
 <br>
 
+<div>
+  <a href="https://x.com/MO_warsi786">
+    <img src="https://img.shields.io/badge/Twitter-%40MO__warsi786-blue" alt="Twitter - @MO_warsi786">
+  </a>
+</div>
+
+
 ## My current favourites.
 
 - [Poemify](https://github.com/Muhammad-Owais-Warsi/Poemify): An AI that turns your images into beautiful poems.
@@ -24,15 +31,18 @@
 - [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
 - [GitHub Roast](https://github.com/Muhammad-Owais-Warsi/GH-ROAST): Get your GitHub profile roasted.
 
-  
-
 <br>
 
-<div>
-  <a href="https://x.com/MO_warsi786">
-    <img src="https://img.shields.io/badge/Twitter-%40MO__warsi786-blue" alt="Twitter - @MO_warsi786">
-  </a>
-</div>
+## Blogs. 
+ - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction): A security tool for the developers.
+ - [Getting started with Val Town](https://knowtech.hashnode.dev/getting-started-with-valtown): If GitHub Gist could run and AWS was fun.
+ - [Testing with Postman](https://knowtech.hashnode.dev/using-postman-for-real-world-traffic-testing-a-tutorial): Testing real world traffic with Postman.
+ - [Communities](https://knowtech.hashnode.dev/exploring-the-power-of-community): Exploring the power of communities.
+ 
+
+</table>
+
+<br>
 
 ### Get to know about me... [owais.me](https://bento.me/owais-warsi)
 
