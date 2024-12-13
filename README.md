@@ -24,7 +24,7 @@
 </div>
 
 
-## My current favourites.
+## My current favourites ✨
 
 - [Poemify](https://github.com/Muhammad-Owais-Warsi/Poemify): An AI that turns your images into beautiful poems.
 - [NPM Suggster](https://github.com/Muhammad-Owais-Warsi/NPM-Suggester): Get yourself the perfect recommendations for the npm packages.
@@ -33,7 +33,7 @@
 
 <br>
 
-## Blogs. 
+## Blogs 📖 
  - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction): A security tool for the developers.
  - [Getting started with Val Town](https://knowtech.hashnode.dev/getting-started-with-valtown): If GitHub Gist could run and AWS was fun.
  - [Testing with Postman](https://knowtech.hashnode.dev/using-postman-for-real-world-traffic-testing-a-tutorial): Testing real world traffic with Postman.
