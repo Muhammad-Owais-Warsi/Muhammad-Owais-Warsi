@@ -27,7 +27,7 @@
 ## My current favourites ✨
 
 - [Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal): Run terminal in your browser inside a containerised enviroment.
-- [Video Call](https://github.com/Muhammad-Owais-Warsi/video-call): A video call with integrated chat using LiveKit(https://livekit.io/).
+- [Video Call](https://github.com/Muhammad-Owais-Warsi/video-call): A video call with integrated chat using [LiveKit](https://livekit.io/).
 - [Poemify](https://github.com/Muhammad-Owais-Warsi/Poemify): An AI that turns your images into beautiful poems.
 - [NPM Suggster](https://github.com/Muhammad-Owais-Warsi/NPM-Suggester): Get yourself the perfect recommendations for the npm packages.
 - [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
