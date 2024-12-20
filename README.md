@@ -32,6 +32,11 @@
 - [NPM Suggster](https://github.com/Muhammad-Owais-Warsi/NPM-Suggester): Get yourself the perfect recommendations for the npm packages.
 - [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
 
+✨
+### **Currently building: A decentralised Bug Bounty Application.**
+✨
+
+
 <br>
 
 ## Blogs 📖 
