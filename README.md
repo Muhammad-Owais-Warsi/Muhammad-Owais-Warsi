@@ -47,11 +47,7 @@
 
 ### Get to know about me... [owais.me](https://bento.me/owais-warsi)
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/owais7860">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px; width: 160px;">
-  </a>
-</div>
+
 
 
 
