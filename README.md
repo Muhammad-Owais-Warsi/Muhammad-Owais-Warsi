@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## Contributed Projects 🌍
+## Projects I contributed to 🌍
 - [Val Town](https://github.com/val-town)
 - [Arcjet](https://github.com/arcjet)
 - [Contribhub](https://github.com/graphicmade/contribhub)
