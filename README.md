@@ -23,6 +23,14 @@
   </a>
 </div>
 
+## Contributed Projects 🌍
+- [Val Town](https://github.com/val-town)
+- [Arcjet](https://github.com/arcjet)
+- [Contribhub](https://github.com/graphicmade/contribhub)
+- [Git Cliff](https://github.com/orhun/git-cliff)
+- [kmon](https://github.com/orhun/git-cliff)
+  
+**More to come...**
 
 ## My current favourites ✨
 - [Buy Me A Chai](https://github.com/Muhammad-Owais-Warsi/buy_me_a_chai): Buy me a Coffee, **but powered by blockchain and some Chai**.
@@ -32,6 +40,8 @@
 - [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
 
 <br>
+
+
 
 ## Blogs 📖 
  - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction): A security tool for the developers.
