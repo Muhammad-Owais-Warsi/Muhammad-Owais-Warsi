@@ -54,7 +54,7 @@
 
 <br>
 
-### Get to know about me... [owais.me](https://bento.me/owais-warsi)
+### Get to know about me... [owais.is-a.dev](owais.is-a.dev)
 
 
 
