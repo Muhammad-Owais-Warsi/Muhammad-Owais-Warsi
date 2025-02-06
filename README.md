@@ -54,7 +54,7 @@
 
 <br>
 
-### Get to know about me... [owais.is-a.dev](owais.is-a.dev)
+### Get to know about me... [owais](owais.is-a.dev)
 
 
 
