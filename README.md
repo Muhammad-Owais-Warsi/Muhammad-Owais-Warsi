@@ -24,6 +24,7 @@
 </div>
 
 ## Projects I contributed to 🌍
+- [0.mail](https://0.email/)
 - [Val Town](https://github.com/val-town)
 - [Arcjet](https://github.com/arcjet)
 - [Contribhub](https://github.com/graphicmade/contribhub)
