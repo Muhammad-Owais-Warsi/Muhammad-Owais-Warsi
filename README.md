@@ -34,10 +34,10 @@
 
 
 ## My current favourites ✨
-- [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): The Payment layer for modern application.
-- [ChimpType](https://github.com/deboneil07/ChimpType): 1 v 1 monkeytype. Race your friends and type like a chimp.
+- [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): The Payment layer for modern application. **[#1 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/better-pay) 🥇**
+- [ChimpType](https://github.com/deboneil07/ChimpType): 1 v 1 monkeytype. Race your friends and type like a chimp. **[#3 PRODUCT OF THE WEEK](https://peerlist.io/neils/project/chimptype) 🥉**
 - [envwarden](https://github.com/Muhammad-Owais-Warsi/envwarden): Protect your `.env` from getting committed to git. The End of Oops-I-Committed-My-.env. 
-- [Zurl](https://github.com/Muhammad-Owais-Warsi/zurl): A faster, simpler curl alternative — built in Rust.
+- [Zurl](https://github.com/Muhammad-Owais-Warsi/zurl): A faster, simpler curl alternative — built in Rust. **[#5 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/zurl)**
 - [Buy Me A Chai](https://github.com/Muhammad-Owais-Warsi/buy_me_a_chai): Buy me a Coffee, **but powered by blockchain and some Chai**.
 - [Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal): Run terminal in your browser inside a containerised enviroment.
 - [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks): A dApp for the whistleblowers.
