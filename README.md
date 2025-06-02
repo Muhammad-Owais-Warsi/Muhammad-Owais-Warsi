@@ -23,15 +23,15 @@
 </div>
 
 ## Projects I contributed to 🌍
-- [0.mail](https://0.email/)
-- [Val Town](https://github.com/val-town)
-- [Arcjet](https://github.com/arcjet)
-- [Contribhub](https://github.com/graphicmade/contribhub)
-- [Git Cliff](https://github.com/orhun/git-cliff)
-- [kmon](https://github.com/orhun/git-cliff)
-  
-**More to come...**
+- [0.mail](https://github.com/Mail-0/Zero/pull/591)
+- [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
+- [Val Town](https://github.com/val-town/val-town-docs/pull/245)
+- [Arcjet](https://github.com/arcjet/arcjet-docs/commits?author=Muhammad-Owais-Warsi)
+- [Contribhub](https://github.com/graphicmade/contribhub/pull/36)
+- [Git Cliff](https://github.com/orhun/git-cliff/pull/928)
+- [kmon](https://github.com/orhun/kmon/pull/174)
 
+<br/>
 
 ## My current favourites ✨
 - [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): The Payment layer for modern application. **[#1 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/better-pay) 🥇**
