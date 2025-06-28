@@ -24,6 +24,7 @@
 
 ## Projects I contributed to 🌍
 - [0.mail](https://github.com/Mail-0/Zero/pull/591)
+- [Nimbus](https://github.com/nimbusdotstorage/Nimbus/commits?author=Muhammad-Owais-Warsi)
 - [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
 - [Val Town](https://github.com/val-town/val-town-docs/pull/245)
 - [Arcjet](https://github.com/arcjet/arcjet-docs/commits?author=Muhammad-Owais-Warsi)
