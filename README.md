@@ -24,12 +24,13 @@
 
 ## Projects I contributed to 🌍
 - [0.mail](https://github.com/Mail-0/Zero/pull/591)
-- [Nimbus](https://github.com/nimbusdotstorage/Nimbus/commits?author=Muhammad-Owais-Warsi)
+- [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
 - [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
+- [Call](https://github.com/call0dotco/Call/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
 - [Val Town](https://github.com/val-town/val-town-docs/pull/245)
-- [Arcjet](https://github.com/arcjet/arcjet-docs/commits?author=Muhammad-Owais-Warsi)
+- [Arcjet](https://github.com/arcjet/arcjet-docs/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi+)
 - [Contribhub](https://github.com/graphicmade/contribhub/pull/36)
-- [Git Cliff](https://github.com/orhun/git-cliff/pull/928)
+- [Git Cliff](https://github.com/orhun/git-cliff/pulls?q=is%3Apr++author%3AMuhammad-Owais-Warsi)
 - [kmon](https://github.com/orhun/kmon/pull/174)
 
 <br/>
