@@ -8,10 +8,10 @@
 
 <div>
   <ul align="left">
-    <li>👨‍🎓 Undergrad who loves building solutions.</li>
-    <li>💻 Building and shipping products.</li>
-    <li>✍️ Love to share by writing blogs <a href="https://knowtech.hashnode.dev/">https://knowtech.hashnode.dev/</a></li>
-    <li>📧 Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
+    <li> Undergrad who loves building solutions.</li>
+    <li> Building and shipping products.</li>
+    <li> Love to share by writing blogs <a href="https://knowtech.hashnode.dev/">https://knowtech.hashnode.dev/</a></li>
+    <li> Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
   </ul>
 </div>
 <br>
