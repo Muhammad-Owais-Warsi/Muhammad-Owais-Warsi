@@ -22,7 +22,7 @@
   </a>
 </div>
 
-## Projects I contributed to 🌍
+## Projects I contributed to 
 - [0.mail](https://github.com/Mail-0/Zero/pull/591)
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
 - [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
@@ -35,7 +35,7 @@
 
 <br/>
 
-## My current favourites ✨
+## My current favourites 
 - [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): The Payment layer for modern application. **[#1 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/better-pay) 🥇**
 - [Flux](https://github.com/Muhammad-Owais-Warsi/flux): Postman alternative built in rust. **[#2 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/flux) 🥈**
 - [ChimpType](https://github.com/deboneil07/ChimpType): 1 v 1 monkeytype. Race your friends and type like a chimp. **[#3 PRODUCT OF THE WEEK](https://peerlist.io/neils/project/chimptype) 🥉**
@@ -49,7 +49,7 @@
 
 
 
-## Blogs 📖 
+## Blogs 
  - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction): A security tool for the developers.
  - [Getting started with Val Town](https://knowtech.hashnode.dev/getting-started-with-valtown): If GitHub Gist could run and AWS was fun.
  - [Testing with Postman](https://knowtech.hashnode.dev/using-postman-for-real-world-traffic-testing-a-tutorial): Testing real world traffic with Postman.
