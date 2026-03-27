@@ -50,10 +50,11 @@
 
 
 ## Blogs 
- - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction): A security tool for the developers.
- - [Getting started with Val Town](https://knowtech.hashnode.dev/getting-started-with-valtown): If GitHub Gist could run and AWS was fun.
- - [Testing with Postman](https://knowtech.hashnode.dev/using-postman-for-real-world-traffic-testing-a-tutorial): Testing real world traffic with Postman.
- - [Communities](https://knowtech.hashnode.dev/exploring-the-power-of-community): Exploring the power of communities.
+ - [How databases get switch on the fly when crashes](https://owais.is-a.dev/blog/keepalived-vrrp/)
+ - [Partitioning and Sharding: Why and when do companies need them](https://owais.is-a.dev/blog/partitioning-vs-sharding/)
+ - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction)
+ - [Getting started with Val Town](https://owais.is-a.dev/blog)
+ - [Testing with Postman](https://owais.is-a.dev/blog/postman-testing-traffic/)
  
 
 </table>
