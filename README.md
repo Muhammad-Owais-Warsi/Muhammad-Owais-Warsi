@@ -52,7 +52,7 @@
 ## Blogs 
  - [How databases get switch on the fly when crashes](https://owais.is-a.dev/blog/keepalived-vrrp/)
  - [Partitioning and Sharding: Why and when do companies need them](https://owais.is-a.dev/blog/partitioning-vs-sharding/)
- - [Introduction to Arcjet](https://knowtech.hashnode.dev/understanding-arcjet-a-simple-introduction)
+ - [Introduction to Arcjet](https://owais.is-a.dev/blog/introduction-to-arcjet/)
  - [Getting started with Val Town](https://owais.is-a.dev/blog)
  - [Testing with Postman](https://owais.is-a.dev/blog/postman-testing-traffic/)
  
