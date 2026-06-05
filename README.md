@@ -36,6 +36,7 @@
 <br>
 
 ## Projects I contributed to 
+- [Zed](https://github.com/zed-industries/zed/pull/52740)
 - [0.mail](https://github.com/Mail-0/Zero/pull/591)
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
 - [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
