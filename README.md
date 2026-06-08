@@ -24,6 +24,7 @@
 
 
 ## My current favourites 
+- [Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope): A security layer that ensures agents can only use the tools they're explicitly allowed to access.
 - [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): The Payment layer for modern application. **[#1 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/better-pay) 🥇**
 - [Flux](https://github.com/Muhammad-Owais-Warsi/flux): Postman alternative built in rust. **[#2 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/flux) 🥈**
 - [ChimpType](https://github.com/deboneil07/ChimpType): 1 v 1 monkeytype. Race your friends and type like a chimp. **[#3 PRODUCT OF THE WEEK](https://peerlist.io/neils/project/chimptype) 🥉**
