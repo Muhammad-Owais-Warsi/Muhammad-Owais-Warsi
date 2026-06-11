@@ -52,6 +52,7 @@
 
 
 ## Blogs 
+ - [How websites check whether a username exists in just milliseconds](https://owais.is-a.dev/blog/bloom-filters/) 
  - [How Apache Cassandra reads and writes data](https://owais.is-a.dev/blog/apache-cassandra-working/)
  - [How databases get switch on the fly when crashes](https://owais.is-a.dev/blog/keepalived-vrrp/)
  - [Partitioning and Sharding: Why and when do companies need them](https://owais.is-a.dev/blog/partitioning-vs-sharding/)
