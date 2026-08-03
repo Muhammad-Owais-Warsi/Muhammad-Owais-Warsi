@@ -52,6 +52,7 @@
 
 
 ## Blogs 
+ - [How collaborative editor work under the hood](https://owais.is-a.dev/blog/crdt-rga/)
  - [Why do databases even use B-trees](https://owais.is-a.dev/blog/b-tress/)
  - [How websites check whether a username exists in just milliseconds](https://owais.is-a.dev/blog/bloom-filters/) 
  - [How Apache Cassandra reads and writes data](https://owais.is-a.dev/blog/apache-cassandra-working/)
