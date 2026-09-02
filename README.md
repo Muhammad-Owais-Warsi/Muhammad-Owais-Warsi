@@ -1,19 +1,18 @@
 <div align="center">
   <img src="https://github.com/Muhammad-Owais-Warsi/Muhammad-Owais-Warsi/blob/main/KNOW-TECH%20(2).png" alt="Owais Warsi">
-  
 </div>
-                                                                                                                   
 
 ### Execute `npx mowarsi` in your terminal for a brief intro.
 
 <div>
   <ul align="left">
-    <li> Undergrad who loves building solutions.</li>
-    <li> Building and shipping products.</li>
-    <li> Love to share by writing blogs <a href="https://owais.is-a.dev/blog">https://owais.is-a.dev/blog</a></li>
-    <li> Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
+    <li>Undergrad who loves building solutions.</li>
+    <li>Building and shipping products.</li>
+    <li>Love to share by writing blogs <a href="https://owais.is-a.dev/blog">https://owais.is-a.dev/blog</a></li>
+    <li>Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
   </ul>
 </div>
+
 <br>
 
 <div>
@@ -22,25 +21,38 @@
   </a>
 </div>
 
+<br/>
+
 ## Work Experience
+
 | Role | Company |
 | :--- | :--- |
 | Founding Engineering Intern | Cueron |
 
+<br/>
 
-## Projects
+## Cherry Picked Projects
+
+### Featured Projects
+| Project | Description | Recognition | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay)** | The Payment layer for modern applications. | **[#1 Product of the Week](https://peerlist.io/owais786/project/better-pay) 🥇** | `TypeScript` |
+| **[Flux](https://github.com/Muhammad-Owais-Warsi/flux)** | Postman alternative built in Rust. | **[#2 Product of the Week](https://peerlist.io/owais786/project/flux) 🥈** | `ReactJS` `Rust` |
+| **[ChimpType](https://github.com/deboneil07/ChimpType)** | 1v1 multiplayer typing race platform. | **[#3 Product of the Week](https://peerlist.io/neils/project/chimptype) 🥉** | `ReactJS` `ExpressJS` `Supabase` |
+| **[Zurl](https://github.com/Muhammad-Owais-Warsi/zurl)** | Fast and minimalistic cURL alternative. | **[#5 Product of the Week](https://peerlist.io/owais786/project/zurl)** | `Rust` |
+
+<br/>
+
+### Some others
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope) | A security layer that ensures agents can only use the tools they're explicitly allowed to access. | `TypeScript` |
-| [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay) | The Payment layer for modern application. **[#1 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/better-pay) 🥇** | `TypeScript` |
-| [Flux](https://github.com/Muhammad-Owais-Warsi/flux) | Postman alternative built in rust. **[#2 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/flux) 🥈** | `ReactJS` `Rust` |
-| [ChimpType](https://github.com/deboneil07/ChimpType) | 1 v 1 monkeytype. Race your friends and type like a chimp. **[#3 PRODUCT OF THE WEEK](https://peerlist.io/neils/project/chimptype) 🥉** | `ReactJS` `ExpressJS` `Pusher` `Supabase` `TailwindCSS` |
-| [Dodo Payments Rust SDK](https://github.com/Muhammad-Owais-Warsi/dodpayments_rust_sdk) | Rust SDK to interact wit Dodo Payments api. | `Rust` |
-| [envwarden](https://github.com/Muhammad-Owais-Warsi/envwarden) | Protect your `.env` from getting committed to git. | `Typescript` |
-| [Zurl](https://github.com/Muhammad-Owais-Warsi/zurl) | A faster, simpler curl alternative — built in Rust. **[#5 PRODUCT OF THE WEEK](https://peerlist.io/owais786/project/zurl)** | `Rust` |
-| [Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal) | Run terminal in your browser inside a containerised enviroment. | `HTML` `DockerAPI` `Web Sockets` |
-| [Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks) | A dApp for the whistleblowers. | `ReactJS` `Solidity` |
+| **[Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope)** | Security layer enforcing tool access controls for AI agents. | `TypeScript` |
+| **[Dodo Payments Rust SDK](https://github.com/Muhammad-Owais-Warsi/dodpayments_rust_sdk)** | Type-safe Rust SDK for Dodo Payments API. | `Rust` |
+| **[envwarden](https://github.com/Muhammad-Owais-Warsi/envwarden)** | Protect your `.env` from getting committed to git. | `TypeScript` |
+| **[Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal)** | Containerized in-browser terminal execution environment. | `HTML` `DockerAPI` `WebSockets` |
+| **[Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks)** | Decentralized reporting dApp for whistleblowers. | `ReactJS` `Solidity` |
 
+<br/>
 
 ## Open Source Contributions
 | Project | Description / Details |
@@ -59,27 +71,18 @@
 
 <br/>
 
+## Blogs
+- [Taste of devops](https://owais.is-a.dev/blog/taste-of-devops/)
+- [How collaborative editor work under the hood](https://owais.is-a.dev/blog/crdt-rga/)
+- [Why do databases even use B-trees](https://owais.is-a.dev/blog/b-tress/)
+- [How websites check whether a username exists in just milliseconds](https://owais.is-a.dev/blog/bloom-filters/)
+- [How Apache Cassandra reads and writes data](https://owais.is-a.dev/blog/apache-cassandra-working/)
+- [How databases get switch on the fly when crashes](https://owais.is-a.dev/blog/keepalived-vrrp/)
+- [Partitioning and Sharding: Why and when do companies need them](https://owais.is-a.dev/blog/partitioning-vs-sharding/)
+- [Introduction to Arcjet](https://owais.is-a.dev/blog/introduction-to-arcjet/)
+- [Getting started with Val Town](https://owais.is-a.dev/blog)
+- [Testing with Postman](https://owais.is-a.dev/blog/postman-testing-traffic/)
 
-## Blogs 
- - [Taste of devops](https://owais.is-a.dev/blog/taste-of-devops/)
- - [How collaborative editor work under the hood](https://owais.is-a.dev/blog/crdt-rga/)
- - [Why do databases even use B-trees](https://owais.is-a.dev/blog/b-tress/)
- - [How websites check whether a username exists in just milliseconds](https://owais.is-a.dev/blog/bloom-filters/) 
- - [How Apache Cassandra reads and writes data](https://owais.is-a.dev/blog/apache-cassandra-working/)
- - [How databases get switch on the fly when crashes](https://owais.is-a.dev/blog/keepalived-vrrp/)
- - [Partitioning and Sharding: Why and when do companies need them](https://owais.is-a.dev/blog/partitioning-vs-sharding/)
- - [Introduction to Arcjet](https://owais.is-a.dev/blog/introduction-to-arcjet/)
- - [Getting started with Val Town](https://owais.is-a.dev/blog)
- - [Testing with Postman](https://owais.is-a.dev/blog/postman-testing-traffic/)
- 
-
-</table>
-
-<br>
+<br/>
 
 ### Get to know about me... [Owais](https://owais.is-a.dev)
-
-
-
-
-
