@@ -6,7 +6,7 @@
 
 <div>
   <ul align="left">
-    <li>Undergrad who loves building solutions.</li>
+    <li>Full Stack Developer who loves building solutions.</li>
     <li>Building and shipping products.</li>
     <li>Love to share by writing blogs <a href="https://owais.is-a.dev/blog">https://owais.is-a.dev/blog</a></li>
     <li>Shoot an email on <a href="mailto:warsimuhammadowais@gmail.com">warsimuhammadowais@gmail.com</a></li>
