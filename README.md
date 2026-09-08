@@ -29,51 +29,35 @@
 | :--- | :--- |
 | Founding Engineering Intern | Cueron |
 
-<br/>
+
 
 ## Cherry Picked Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[ttfx-sj](https://github.com/Muhammad-Owais-Warsi/ttfx-js)** | A lightweight JavaScript toolkit for terminal text effects. | `Jasvascript` |
-| **[Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope)** | Security layer enforcing tool access controls for AI agents. | `TypeScript` |
-
-### Featured Projects 
-| Project | Description | Recognition | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **[Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay)** | The Payment layer for modern applications. | **[#1 Product of the Week](https://peerlist.io/owais786/project/better-pay) 🥇** | `TypeScript` |
-| **[Flux](https://github.com/Muhammad-Owais-Warsi/flux)** | Postman alternative built in Rust. | **[#2 Product of the Week](https://peerlist.io/owais786/project/flux) 🥈** | `ReactJS` `Rust` |
-| **[ChimpType](https://github.com/deboneil07/ChimpType)** | 1v1 multiplayer typing race platform. | **[#3 Product of the Week](https://peerlist.io/neils/project/chimptype) 🥉** | `ReactJS` `ExpressJS` `Supabase` |
-| **[Zurl](https://github.com/Muhammad-Owais-Warsi/zurl)** | Fast and minimalistic cURL alternative. | **[#5 Product of the Week](https://peerlist.io/owais786/project/zurl)** | `Rust` |
+* [ttfx-js](https://github.com/Muhammad-Owais-Warsi/ttfx-js): Lightweight JavaScript toolkit for terminal text effects.
+* [Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope): Security layer for enforcing tool access controls in AI agents.
+* [Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay): Payment layer for modern applications. [#1 Product of the Week, Peerlist 🥇](https://peerlist.io/owais786/project/better-pay)
+* [Flux](https://github.com/Muhammad-Owais-Warsi/flux): Postman alternative built in Rust. [#2 Product of the Week, Peerlist 🥈](https://peerlist.io/owais786/project/flux)
+* [ChimpType](https://github.com/deboneil07/ChimpType): 1v1 multiplayer typing race platform. [#3 Product of the Week, Peerlist 🥉](https://peerlist.io/neils/project/chimptype)
+* [Zurl](https://github.com/Muhammad-Owais-Warsi/zurl): Fast, minimalistic cURL alternative. [#5 Product of the Week, Peerlist](https://peerlist.io/owais786/project/zurl)
+* [Dodo Payments Rust SDK](https://github.com/Muhammad-Owais-Warsi/dodpayments_rust_sdk): Type-safe Rust SDK for the Dodo Payments API.
 
 
-### Some others
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Dodo Payments Rust SDK](https://github.com/Muhammad-Owais-Warsi/dodpayments_rust_sdk)** | Type-safe Rust SDK for Dodo Payments API. | `Rust` |
-| **[envwarden](https://github.com/Muhammad-Owais-Warsi/envwarden)** | Protect your `.env` from getting committed to git. | `TypeScript` |
-| **[Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal)** | Containerized in-browser terminal execution environment. | `HTML` `DockerAPI` `WebSockets` |
-| **[Wikileaks](https://github.com/Muhammad-Owais-Warsi/WikiLeaks)** | Decentralized reporting dApp for whistleblowers. | `ReactJS` `Solidity` |
-
-<br/>
 
 ## Open Source Contributions
-| Project | Description / Details |
-| :--- | :--- |
-| [Zed](https://github.com/zed-industries/zed/pull/52740) | High-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [GPUI Kit](https://github.com/longbridge/gpui-kit/pulls?q=+is%3Apr+author%3A%40Muhammad-Owais-Warsi) | Rust GUI components for building fantastic cross-platform desktop applications using GPUI. |
-| [Paykit](https://github.com/getpaykit/paykit/pulls?q=+is%3Apr+author%3AMuhammad-Owais-Warsi+) | Open-source payment SDKs and integration tools. |
-| [0.mail](https://github.com/Mail-0/Zero/pull/591) | Open source alternative to Gmail. |
-| [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) | Open source alternative to Google Drive. |
-| [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87) | Official Hacktoberfest event repository. |
-| [Call](https://github.com/call0dotco/Call/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) | Open source alternative to Google Meet and Zoom. |
-| [Val Town](https://github.com/val-town/val-town-docs/pull/245) | Collaborative platform to write and run serverless code. |
-| [Arcjet](https://github.com/arcjet/arcjet-docs/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi+) | Security SDK for web developers. |
-| [Contribhub](https://github.com/graphicmade/contribhub/pull/36) | Platform to find and contribute to open source projects. |
-| [Git Cliff](https://github.com/orhun/git-cliff/pulls?q=is%3Apr++author%3AMuhammad-Owais-Warsi) | Highly customizable Changelog Generator following Conventional Commits specifications. |
-| [kmon](https://github.com/orhun/kmon/pull/174) | Linux Kernel Manager and Activity Monitor. |
 
-<br/>
+* [Zed](https://github.com/zed-industries/zed/pull/52740) — High-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [GPUI Kit](https://github.com/longbridge/gpui-kit/pulls?q=is%3Apr+author%3A%40Muhammad-Owais-Warsi) — Rust GUI components for building fantastic cross-platform desktop applications using GPUI.
+* [Paykit](https://github.com/getpaykit/paykit/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source payment SDKs and integration tools.
+* [0.mail](https://github.com/Mail-0/Zero/pull/591) — Open-source alternative to Gmail.
+* [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source alternative to Google Drive.
+* [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87) — Official Hacktoberfest event repository.
+* [Call](https://github.com/call0dotco/Call/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source alternative to Google Meet and Zoom.
+* [Val Town](https://github.com/val-town/val-town-docs/pull/245) — Collaborative platform to write and run serverless code.
+* [Arcjet](https://github.com/arcjet/arcjet-docs/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Security SDK for web developers.
+* [Contribhub](https://github.com/graphicmade/contribhub/pull/36) — Platform to find and contribute to open-source projects.
+* [Git Cliff](https://github.com/orhun/git-cliff/pulls?q=is%3Apr++author%3AMuhammad-Owais-Warsi) — Highly customizable changelog generator following Conventional Commits specifications.
+* [kmon](https://github.com/orhun/kmon/pull/174) — Linux Kernel Manager and Activity Monitor.
+
 
 ## Blogs
 - [Taste of devops](https://owais.is-a.dev/blog/taste-of-devops/)
