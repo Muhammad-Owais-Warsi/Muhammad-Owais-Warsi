@@ -33,7 +33,12 @@
 
 ## Cherry Picked Projects
 
-### Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[ttfx-sj](https://github.com/Muhammad-Owais-Warsi/ttfx-js)** | A lightweight JavaScript toolkit for terminal text effects. | `Jasvascript` |
+| **[Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope)** | Security layer enforcing tool access controls for AI agents. | `TypeScript` |
+
+### Featured Projects 
 | Project | Description | Recognition | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Better Pay](https://github.com/Muhammad-Owais-Warsi/Better-Pay)** | The Payment layer for modern applications. | **[#1 Product of the Week](https://peerlist.io/owais786/project/better-pay) 🥇** | `TypeScript` |
@@ -41,12 +46,10 @@
 | **[ChimpType](https://github.com/deboneil07/ChimpType)** | 1v1 multiplayer typing race platform. | **[#3 Product of the Week](https://peerlist.io/neils/project/chimptype) 🥉** | `ReactJS` `ExpressJS` `Supabase` |
 | **[Zurl](https://github.com/Muhammad-Owais-Warsi/zurl)** | Fast and minimalistic cURL alternative. | **[#5 Product of the Week](https://peerlist.io/owais786/project/zurl)** | `Rust` |
 
-<br/>
 
 ### Some others
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Agent Scope](https://github.com/Muhammad-Owais-Warsi/agent-scope)** | Security layer enforcing tool access controls for AI agents. | `TypeScript` |
 | **[Dodo Payments Rust SDK](https://github.com/Muhammad-Owais-Warsi/dodpayments_rust_sdk)** | Type-safe Rust SDK for Dodo Payments API. | `Rust` |
 | **[envwarden](https://github.com/Muhammad-Owais-Warsi/envwarden)** | Protect your `.env` from getting committed to git. | `TypeScript` |
 | **[Web Terminal](https://github.com/Muhammad-Owais-Warsi/Web-Terminal)** | Containerized in-browser terminal execution environment. | `HTML` `DockerAPI` `WebSockets` |
@@ -58,6 +61,7 @@
 | Project | Description / Details |
 | :--- | :--- |
 | [Zed](https://github.com/zed-industries/zed/pull/52740) | High-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [GPUI Kit](https://github.com/longbridge/gpui-kit/pulls?q=+is%3Apr+author%3A%40Muhammad-Owais-Warsi) | Rust GUI components for building fantastic cross-platform desktop applications using GPUI. |
 | [Paykit](https://github.com/getpaykit/paykit/pulls?q=+is%3Apr+author%3AMuhammad-Owais-Warsi+) | Open-source payment SDKs and integration tools. |
 | [0.mail](https://github.com/Mail-0/Zero/pull/591) | Open source alternative to Gmail. |
 | [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) | Open source alternative to Google Drive. |
