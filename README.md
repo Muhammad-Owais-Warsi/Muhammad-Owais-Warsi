@@ -45,18 +45,18 @@
 
 ## Open Source Contributions
 
-* [Zed](https://github.com/zed-industries/zed/pull/52740) — High-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [GPUI Kit](https://github.com/longbridge/gpui-kit/pulls?q=is%3Apr+author%3A%40Muhammad-Owais-Warsi) — Rust GUI components for building fantastic cross-platform desktop applications using GPUI.
-* [Paykit](https://github.com/getpaykit/paykit/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source payment SDKs and integration tools.
-* [0.mail](https://github.com/Mail-0/Zero/pull/591) — Open-source alternative to Gmail.
-* [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source alternative to Google Drive.
-* [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87) — Official Hacktoberfest event repository.
-* [Call](https://github.com/call0dotco/Call/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Open-source alternative to Google Meet and Zoom.
-* [Val Town](https://github.com/val-town/val-town-docs/pull/245) — Collaborative platform to write and run serverless code.
-* [Arcjet](https://github.com/arcjet/arcjet-docs/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi) — Security SDK for web developers.
-* [Contribhub](https://github.com/graphicmade/contribhub/pull/36) — Platform to find and contribute to open-source projects.
-* [Git Cliff](https://github.com/orhun/git-cliff/pulls?q=is%3Apr++author%3AMuhammad-Owais-Warsi) — Highly customizable changelog generator following Conventional Commits specifications.
-* [kmon](https://github.com/orhun/kmon/pull/174) — Linux Kernel Manager and Activity Monitor.
+* [Zed](https://github.com/zed-industries/zed/pull/52740)
+* [GPUI Kit](https://github.com/longbridge/gpui-kit/pulls?q=is%3Apr+author%3A%40Muhammad-Owais-Warsi)
+* [Paykit](https://github.com/getpaykit/paykit/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
+* [0.mail](https://github.com/Mail-0/Zero/pull/591)
+* [Nimbus](https://github.com/nimbusdotstorage/Nimbus/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
+* [Hacktoberfest](https://github.com/Hacktoberfest/hacktoberfest-2022/pull/87)
+* [Call](https://github.com/call0dotco/Call/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
+* [Val Town](https://github.com/val-town/val-town-docs/pull/245)
+* [Arcjet](https://github.com/arcjet/arcjet-docs/pulls?q=is%3Apr+author%3AMuhammad-Owais-Warsi)
+* [Contribhub](https://github.com/graphicmade/contribhub/pull/36)
+* [Git Cliff](https://github.com/orhun/git-cliff/pulls?q=is%3Apr++author%3AMuhammad-Owais-Warsi)  
+* [kmon](https://github.com/orhun/kmon/pull/174)
 
 
 ## Blogs
