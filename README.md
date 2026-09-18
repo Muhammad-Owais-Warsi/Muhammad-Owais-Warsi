@@ -27,6 +27,7 @@
 
 | Role | Company |
 | :--- | :--- |
+| Software Intern | Ressl AI (YC W26) |
 | Founding Engineering Intern | Cueron |
 
 
