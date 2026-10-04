@@ -61,6 +61,8 @@
 
 
 ## Blogs
+- [When answers aren't enough - G-Eval](https://owais.is-a.dev/blog/g-eval/)
+- [AI Benchmark on tips](https://owais.is-a.dev/blog/benchmarks-on-tips/)
 - [Taste of devops](https://owais.is-a.dev/blog/taste-of-devops/)
 - [How collaborative editor work under the hood](https://owais.is-a.dev/blog/crdt-rga/)
 - [Why do databases even use B-trees](https://owais.is-a.dev/blog/b-tress/)
