@@ -61,6 +61,7 @@
 
 
 ## Blogs
+- [AG-UI](https://owais.is-a.dev/blog/ag-ui/)
 - [When answers aren't enough - G-Eval](https://owais.is-a.dev/blog/g-eval/)
 - [AI Benchmark on tips](https://owais.is-a.dev/blog/benchmarks-on-tips/)
 - [Taste of devops](https://owais.is-a.dev/blog/taste-of-devops/)
