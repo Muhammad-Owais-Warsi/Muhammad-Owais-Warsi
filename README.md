@@ -30,7 +30,8 @@
 | Software Intern | Ressl AI (YC W26) |
 | Founding Engineering Intern | Cueron |
 
-
+## Benchmarks & Research
+- [C2A Bench](https://c2abench.com/): Can an AI agent learn and adapt to changing business context to resolve customer issues?
 
 ## Cherry Picked Projects
 
