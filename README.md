@@ -62,6 +62,7 @@
 
 
 ## Blogs
+- [iWSP](https://owais.is-a.dev/blog/iwsp/)
 - [GEPA](https://owais.is-a.dev/blog/gepa/)
 - [AG-UI](https://owais.is-a.dev/blog/ag-ui/)
 - [When answers aren't enough - G-Eval](https://owais.is-a.dev/blog/g-eval/)
